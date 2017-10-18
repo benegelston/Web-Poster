@@ -1,0 +1,77 @@
+/* You may set the width and height of container/section elements in percentages. 
+DO NOT USE PERCENTAGES IN TEXTS AND IMAGES : No responsiveness  */
+
+body { 
+
+	background-color:black;
+}
+
+#container {
+	width: 1250px;
+	height: 2100px;
+	position: relative;
+	left: 50%;
+	margin-left: -550px;
+}
+
+.section {
+	width: 100%;
+	height: 700px;
+}
+
+#title-start {
+
+	font-family: ingra-2, sans-serif; 
+	font-style: normal;
+	font-weight:100;
+	color:white;
+	font-size:200px;
+	position:relative;
+	text-align:center;
+	margin-top:120px;
+
+}
+
+p {
+
+	color:white;
+}
+
+#hungry-kids {
+	
+	margin-left:470px;
+	margin-top:-375px;
+	opacity:.4;
+}
+
+#first-para {
+
+	font-family:ingra-2, sans-serif;
+	font-style:normal;
+	font-weight:100;
+	color:white;
+	font-size:200px;
+	margin-top:50px;
+
+
+
+}
+
+
+#second {
+}
+
+#third {
+}
+
+p {
+	font-family: Helvetica;
+	font-size: 6em;
+}
+
+#left {
+	position: absolute;
+	left: 30px;
+	top: 150px;
+	color: black;
+}
